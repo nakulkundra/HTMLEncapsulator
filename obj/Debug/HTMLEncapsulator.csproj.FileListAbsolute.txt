@@ -1,0 +1,7 @@
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\bin\Debug\HTMLEncapsulator.exe.config
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\bin\Debug\HTMLEncapsulator.exe
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\bin\Debug\HTMLEncapsulator.pdb
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\obj\Debug\HTMLEncapsulator.csproj.AssemblyReference.cache
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\obj\Debug\HTMLEncapsulator.csproj.CoreCompileInputs.cache
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\obj\Debug\HTMLEncapsulator.exe
+C:\Users\Nakul.Kundra\source\repos\HTMLEncapsulator\HTMLEncapsulator\obj\Debug\HTMLEncapsulator.pdb
